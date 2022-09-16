@@ -5,10 +5,10 @@ import SearchIcon from './search.svg'
 import MovieCard from "./MovieCard";
 
 
+// I plan to finish this assigment later.  I am having a hard time putting together a rating system. 
 
 
 
-// ac4543f
 // main page
 
 //API link

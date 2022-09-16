@@ -1,4 +1,5 @@
 import React from 'react';
+//API won't pull in 6th perameter and i am not sure why. 
 
 const MovieCard = ({ movie: { imdbID, Year, Poster, Title, Type, imdbRating } }) => {
   return (
