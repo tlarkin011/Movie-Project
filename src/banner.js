@@ -31,7 +31,7 @@ const Banner = () => {
     return (
       <div className="app">
         <div>
-            <img src="https://t3.ftcdn.net/jpg/03/67/26/58/360_F_367265859_t9oDOkonHpCUtyR4Z0Lh1TryWpVzOHm7.jpg"></img>
+            <img src="https://t3.ftcdn.net/jpg/03/67/26/58/360_F_367265859_t9oDOkonHpCUtyR4Z0Lh1TryWpVzOHm7.jpg" alt="Pirate ship"></img>
         </div>
         <h1>The Pirate Harbor</h1>
   
